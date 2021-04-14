@@ -1,0 +1,2 @@
+com\vikas\BuilderProcessor.class
+META-INF\services\javax.annotation.processing.Processor
