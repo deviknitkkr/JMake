@@ -7,8 +7,8 @@ To include this library to your project:
 ## Gradle
 ```gradle
 
-  // Add this to your project level build.gradle file
-  allprojects {
+ 	// Add this to your project level build.gradle file
+        allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
@@ -16,7 +16,7 @@ To include this library to your project:
 	}
   
 
- // Add this to your app level build.gradle file
+	// Add this to your app level build.gradle file
 	dependencies {
 	        implementation 'com.github.deviknitkkr:JMake:Tag'
 	}
