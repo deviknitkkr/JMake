@@ -3,7 +3,7 @@ Custom Annotation for java
 
 [![](https://jitpack.io/v/deviknitkkr/JMake.svg)](https://jitpack.io/#deviknitkkr/JMake)
 
-To include this library to your project:
+To include this library in your project:
 ## Gradle
 ```gradle
 
