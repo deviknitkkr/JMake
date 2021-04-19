@@ -5,7 +5,7 @@ Custom Annotation for java
 
 To include this library to your project:
 ## Gradle
-```java
+```gradle
 
   // Add this to your project level build.gradle file
   allprojects {
