@@ -21,3 +21,19 @@ To include this library to your project:
 	        implementation 'com.github.deviknitkkr:JMake:Tag'
 	}
   ```
+
+## Maven
+```xml
+	<repositories>
+	    <repository>
+	        <id>jitpack.io</id>
+	        <url>https://jitpack.io</url>
+  	    </repository>
+	</repositories>
+
+	<dependency>
+	    <groupId>com.github.deviknitkkr</groupId>
+	    <artifactId>JMake</artifactId>
+	    <version>Tag</version>
+	</dependency>
+```
