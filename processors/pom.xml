@@ -12,16 +12,15 @@
     <artifactId>processors</artifactId>
 
     <dependencies>
-        <dependency>
-            <groupId>com.google.auto.service</groupId>
-            <artifactId>auto-service</artifactId>
-            <version>1.0</version>
-            <optional>true</optional>
-        </dependency>
 
         <dependency>
             <groupId>com.vikas</groupId>
             <artifactId>annotations</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.auto.service</groupId>
+            <artifactId>auto-service-annotations</artifactId>
             <version>1.0</version>
         </dependency>
     </dependencies>
