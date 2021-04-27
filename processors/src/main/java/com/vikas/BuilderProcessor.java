@@ -37,7 +37,7 @@ public class BuilderProcessor extends AbstractProcessor {
     @Override
     public Set<String> getSupportedAnnotationTypes() {
         Set<String> set = new LinkedHashSet<>();
-        set.add(Builder.class.getCanonicalName());
+        set.add(Builder.class.getName());
         return set;
     }
 
