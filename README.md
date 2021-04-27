@@ -2,6 +2,7 @@
 Custom Annotation for java
 
 [![](https://jitpack.io/v/deviknitkkr/JMake.svg)](https://jitpack.io/#deviknitkkr/JMake)
+[![CodeFactor](https://www.codefactor.io/repository/github/deviknitkkr/jmake/badge/main)](https://www.codefactor.io/repository/github/deviknitkkr/jmake/overview/main)
 
 To include this library in your project:
 ## Gradle
