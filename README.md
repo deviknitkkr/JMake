@@ -3,7 +3,8 @@ Custom Annotation for java
 
 [![](https://jitpack.io/v/deviknitkkr/JMake.svg)](https://jitpack.io/#deviknitkkr/JMake)
 [![CodeFactor](https://www.codefactor.io/repository/github/deviknitkkr/jmake/badge/main)](https://www.codefactor.io/repository/github/deviknitkkr/jmake/overview/main)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 
 To include this library in your project:
 ## Gradle
